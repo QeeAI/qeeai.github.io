@@ -1396,38 +1396,59 @@ http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="LongYanZongHe.cn" tvg-name="龙岩综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中国",龙岩综合
 http://stream.lytv.net.cn/2/sd/live.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合(线路1)
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合(线路2)
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合(线路3)
+http://223.110.243.138:80/PLTV/3/224/3221226316/index.m3u8?servicetype=1&amp;icpid=88888888&amp;from=1&amp;hms_devid=3444
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="中国",CCTV中国中央电视台-2 财经
-http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8  
+http://39.134.39.39/PLTV/88888888/224/3221226220/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="中国",CCTV中国中央电视台-3 综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8 
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="中国",CCTV中国中央电视台-4 中文国际
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8  
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8 
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育(线路1)
+http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育(线路2)
+http://180.153.99.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育(线路3)
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="中国",CCTV中国中央电视台-5+ 体育赛事
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="中国",CCTV中国中央电视台-6 电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8  
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="中国",CCTV中国中央电视台-7 国防军事
-http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8 
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="中国",CCTV中国中央电视台-8 电视剧
-http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8 
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv8hd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="中国",CCTV中国中央电视台-9 纪录
-http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8 
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8  
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="中国",CCTV中国中央电视台-10 科教
-http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8 
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8  
 #EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="中国",CCTV中国中央电视台-11 戏曲
-http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV12" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="中国",CCTV中国中央电视台-12 社会与法制
-http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8  
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="中国",CCTV中国中央电视台-13 新闻
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="中国",CCTV中国中央电视台-13 新闻(线路1)
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="中国",CCTV中国中央电视台-13 新闻(线路2)
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8 
 #EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="中国",CCTV中国中央电视台-14 少儿
-http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8  
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/2300000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV15" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="中国",CCTV中国中央电视台-15 音乐
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8 
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3e486ab4e31f33a87e850b1c9" group-title="中国",湖南卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8  
+#EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://bkimg.cdn.bcebos.com/pic/cc11728b4710b9129a35a489ccfdfc03934522d4" group-title="中国",江苏卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8  
+#EXTINF:-1 tvg-id="ZheJiangWeiShi.cn" tvg-name="浙江卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="中国",浙江卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8  
+#EXTINF:-1 tvg-id="DongFangWeiShi.cn" tvg-name="东方卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/dongfang.jpg" group-title="中国",东方卫视
+http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8  
+
+
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台 - 线路1" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台  (480p)
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台 - 线路2" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台  (480p)
