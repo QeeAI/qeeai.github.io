@@ -287,6 +287,8 @@ http://stream2.jlntv.cn/naxw/sd/live.m3u8
 http://223.82.250.72/live/fhchinese/1.m3u8
 #EXTINF:-1 tvg-id="FengHuangDianYing.cn" tvg-name="凤凰电影" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="中国",凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
+#EXTINF:-1 tvg-id="FengTaiWenHuaShengHuo.cn" tvg-name="凤台文化生活" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中国",凤台文化生活 (576p) [Not 24/7]
+http://60.175.115.119:1935/live/wenhua/playlist.m3u8
 #EXTINF:-1 tvg-id="FengTaiZongHePinDao.cn" tvg-name="凤台综合频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中国",凤台综合频道 (576p) [Not 24/7]
 http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="LiChuanGongGongPinDao.cn" tvg-name="利川公共频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中国",利川公共频道 (576p)
@@ -1037,8 +1039,8 @@ http://117.148.187.37/PLTV/88888888/224/3221226162/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/hdhunanstv/1.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中国",湖南卫视HD (720p)
 http://223.82.250.72/live/hdhunanstv/1.m3u8
-#EXTINF:-1 tvg-id="HuNanGuoJi.cn" tvg-name="湖南国际" tvg-country="CN" tvg-language="" tvg-logo="" group-title="中国",湖南国际 (360p)
-http://149.129.100.78/hunan.php?id=229
+#EXTINF:-1 tvg-id="HuNanYuLe.cn" tvg-name="湖南娱乐" tvg-country="CN" tvg-language="" tvg-logo="" group-title="中国",湖南娱乐 (360p) [Not 24/7]
+http://149.129.100.78/hunan.php?id=344
 #EXTINF:-1 tvg-id="HuNanJiaoYu.cn" tvg-name="湖南教育" tvg-country="CN" tvg-language="" tvg-logo="" group-title="中国",湖南教育
 http://pull.hnedutv.com/live/hnedutv.m3u8
 #EXTINF:-1 tvg-id="HuNanDianShiJu.cn" tvg-name="湖南电视剧" tvg-country="CN" tvg-language="" tvg-logo="" group-title="中国",湖南电视剧 (360p) [Not 24/7]
@@ -1394,10 +1396,44 @@ http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 tvg-id="LongYanZongHe.cn" tvg-name="龙岩综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="中国",龙岩综合
 http://stream.lytv.net.cn/2/sd/live.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="中国",CCTV中国中央电视台-1 综合
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV2.cn" tvg-name="CCTV2" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/800px-CCTV-2_Logo.svg.png" group-title="中国",CCTV中国中央电视台-2 财经
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV3" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="中国",CCTV中国中央电视台-3 综艺
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8 
+#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV4" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/800px-CCTV-4_Logo.svg.png" group-title="中国",CCTV中国中央电视台-4 中文国际
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-name="CCTV5" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="中国",CCTV中国中央电视台-5 体育
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png" group-title="中国",CCTV中国中央电视台-5+ 体育赛事
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV6" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="中国",CCTV中国中央电视台-6 电影
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV7" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="中国",CCTV中国中央电视台-7 国防军事
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8 
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV8" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="中国",CCTV中国中央电视台-8 电视剧
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8 
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-name="CCTV9" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="中国",CCTV中国中央电视台-9 纪录
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8 
+#EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV10" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="中国",CCTV中国中央电视台-10 科教
+http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8 
+#EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CCTV11" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="中国",CCTV中国中央电视台-11 戏曲
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u
+#EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV12" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="中国",CCTV中国中央电视台-12 社会与法制
+http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="中国",CCTV中国中央电视台-13 新闻
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-name="CCTV14" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="中国",CCTV中国中央电视台-14 少儿
+http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8  
+#EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV15" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="中国",CCTV中国中央电视台-15 音乐
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8 
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台 - 线路1" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台  (480p)
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台 - 线路2" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台  (480p)
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台 - 线路3" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠台  (480p)
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠明珠台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="香港",翡翠明珠台 (1080p)
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="GangTaiDianShi31.hk" tvg-name="RTHK (港台電視31) " tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",RTHK (港台電視31) (720p)
@@ -1411,9 +1447,9 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="XiangGangKaiDianShiHKSTVHKS.hk" tvg-name="香港开电视 / HKSTV-HKS" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg" group-title="香港",香港开电视 / HKSTV-HKS (720p)
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiZhongWenTai.hk" tvg-name="鳳凰衛視中文台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" group-title="香港",鳳凰衛視中文台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P 
 #EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰衛視資訊台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="香港",鳳凰衛視資訊台HD
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 #EXTINF:-1 tvg-id="FengHuangHK.hk" tvg-name="鳳凰衛視香港台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="香港",鳳凰衛視香港台HD
 http://live.fengshows.com/live/PHK_500k/index.m3u8
 #EXTINF:-1 tvg-id="XiangGangWeiShi.hk" tvg-name="香港衛視" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/wnQPn2d.jpg" group-title="香港",香港衛視 (576p) [Not 24/7]
@@ -1756,6 +1792,8 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 http://gayotv.net:1935/live/gayotv/playlist.m3u8
 #EXTINF:-1 tvg-id="gugagbangsong.kr" tvg-name="국악방송" tvg-country="KR" tvg-language="" tvg-logo="https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg" group-title="韩国",국악방송 (1080p)
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="daeguMBCMBCDaegu.kr" tvg-name="대구 MBC (MBC Daegu)" tvg-country="KR" tvg-language="" tvg-logo="https://dg.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/12/0df66e127a9d1c68d0d56dd7567a5b52943a71122c8fc5aecf792ff11fba3d93bb1cd98f1d1c9e2fd83a294d26e2d5f270b705711cc20b5bdaf39ed2188c5075.png" group-title="韩国",대구 MBC (MBC Daegu) (480p) [Not 24/7]
+https://5e04aba713813.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="daejeonMBCMBCDaejeon.kr" tvg-name="대전MBC (MBC Daejeon)" tvg-country="KR" tvg-language="" tvg-logo="https://busan.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2018/12/6e1a8d912bd32dca479bbf74667f7caf0716dd4e358e61136cecb8ca29b5b99a46b47b1d42b4a487d582c6ad6132929ff20a4cb41b344da26694ca115f5ee90a.png" group-title="韩国",대전MBC (MBC Daejeon) (720p)
 https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="yeosuMBCMBCYeosu.kr" tvg-name="여수MBC (MBC Yeosu)" tvg-country="KR" tvg-language="" tvg-logo="https://ys.cdn.a04f922e9e85c8d25ebfeae3dfd22a67.com/2019/01/bbbcec12d40f91ed9d4609144a648583937ee510098fb91776a99b0c1f00e818ab090f049ebdf24b0d1b21efb7f103dea45fb0f88d2571bf1756759dfdc93fd9.png" group-title="韩国",여수MBC (MBC Yeosu) (720p)
@@ -1985,6 +2023,8 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-slightly-off-by-amc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Ameba.us" tvg-name="Ameba" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/612ZLob%2BSOL.png" group-title="美国",Ameba (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="America.us" tvg-name="America" tvg-country="US" tvg-language="English" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png" group-title="美国",America (720p) [Not 24/7]
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL=
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Americas_Test_Kitchen_190x190.png?raw=true" group-title="美国",America's Test Kitchen (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us" tvg-name="America's Voice" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="美国",America's Voice (720p)
@@ -3133,6 +3173,8 @@ https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/
 https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LoopElectronica.us" tvg-name="Loop Electronica" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg" group-title="美国",Loop Electronica West (1080p) [Geo-blocked]
 https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopElectronica.us" tvg-name="Loop_Electronica" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xQlkS6U.png" group-title="美国",Loop Electronica West (1080p) [Not 24/7]
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
 #EXTINF:-1 tvg-id="LoopFarOut.us" tvg-name="Loop Far Out" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/66b982a91d8b8f8383420675781139a1.jpeg" group-title="美国",Loop Far Out West (1080p) [Geo-blocked]
 https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
 #EXTINF:-1 tvg-id="LoopFlashback.us" tvg-name="Loop Flashback" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/52a174e6787a4ade949c6f5903777cff.jpeg" group-title="美国",Loop Flashback West (1080p) [Geo-blocked]
@@ -4015,6 +4057,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6b54b9e67cf60007d4cef1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVElConquistadordelFin.us" tvg-name="Pluto TV El Conquistador del Fin" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="美国",Pluto TV El Conquistador del Fin (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVElEncantadordePerros.us" tvg-name="Pluto TV El Encantador de Perros" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="美国",Pluto TV El Encantador de Perros
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us" tvg-name="Pluto TV El Reino Infantil" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png" group-title="美国",Pluto TV El Reino Infantil (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVEmpenosalobestia.us" tvg-name="Pluto TV Empeños a lo bestia" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png" group-title="美国",Pluto TV Empeños a lo bestia (360p)
@@ -4195,6 +4239,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d83e0a
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66928133461100077dfd73/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e66928133461100077dfd73&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=514&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVJudgenosey.us" tvg-name="Pluto TV Judge nosey" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png" group-title="美国",Pluto TV Judge nosey (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9decb953e157000752321c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e9decb953e157000752321c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=160&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVJudgenosey.us" tvg-name="Pluto TV Judge nosey" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e9decb953e157000752321c/colorLogoPNG.png" group-title="美国",Pluto TV Judge nosey (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9decb953e157000752321c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="美国",Pluto TV Junior (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png" group-title="美国",Pluto TV Junior (720p)
@@ -4249,6 +4295,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed6d56
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f0cb39b4ae1f80007bad585&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=694&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVLoveHipHop.us" tvg-name="Pluto TV Love & Hip Hop" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" group-title="美国",Pluto TV Love & Hip Hop (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51ddf0369acdb278dfb05e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=283&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVLoveNature.us" tvg-name="Pluto TV Love Nature" tvg-country="US" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="美国",Pluto TV Love Nature
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVLoveStories.us" tvg-name="Pluto TV Love Stories" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5f15e181520cfa000771ce79/colorLogoPNG.png" group-title="美国",Pluto TV Love Stories (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e181520cfa000771ce79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=147&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVLuchaLibreAAA.us" tvg-name="Pluto TV Lucha Libre AAA" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png" group-title="美国",Pluto TV Lucha Libre AAA (720p)
@@ -4597,6 +4645,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55a6a3275616b6240c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVSitcoms.us" tvg-name="Pluto TV Sitcoms" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="美国",Pluto TV Sitcoms (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d767ab2b456c8cf265ce921&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=7e35daaa-06ef-11eb-9df2-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.us" tvg-name="Pluto TV Sitcoms" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="美国",Pluto TV Sitcoms (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVSitcomsGermany.us" tvg-name="Pluto TV Sitcoms (Germany)" tvg-country="US" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="美国",Pluto TV Sitcoms (Germany) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ab2b456c8cf265ce921&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=405&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVSitcomsPlus.us" tvg-name="Pluto TV Sitcoms+" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="美国",Pluto TV Sitcoms+ (720p)
@@ -5590,8 +5640,6 @@ https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="TV254Action.us" tvg-name="25.4" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="美国",TV25.4 Action (480p)
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-#EXTINF:-1 tvg-id="TV255AmericasVoice.us" tvg-name="TV25.5 America's Voice" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="美国",TV25.5 America's Voice (480p)
-https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
 #EXTINF:-1 tvg-id="I25.6.97120.zap2it.com" tvg-name="25.6" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="美国",TV25.6 WeatherNation (480p)
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
 #EXTINF:-1 tvg-id="I25.7.97124.zap2it.com" tvg-name="25.7" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="美国",TV25.7 Rev'n (480p)
@@ -5646,8 +5694,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
 #EXTINF:-1 tvg-id="TVSSelectNetwork.us" tvg-name="TVS Select Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="美国",TVS Select Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
-#EXTINF:-1 tvg-id="TVSSiloDiscountNetwork.us" tvg-name="TVS Silo Discount Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="美国",TVS Silo Discount Network (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
 #EXTINF:-1 tvg-id="TVSSports.us" tvg-name="TVS Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="美国",TVS Sports (960p)
 https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-name="TVS Sports Bureau" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="美国",TVS Sports Bureau (720p)
@@ -5658,10 +5704,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tavern/index.m3u8
 #EXTINF:-1 tvg-id="TVSTelevisionNetwork.us" tvg-name="TVS Television Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="美国",TVS Television Network (490p)
 https://rpn1.bozztv.com/36bay2/gusa-tvstn/index.m3u8
-#EXTINF:-1 tvg-id="TVSTodayHomeEntertainmentNetwork.us" tvg-name="TVS Today Home Entertainment Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="美国",TVS Today Home Entertainment Network (720p)
-https://rpn1.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/index.m3u8
-#EXTINF:-1 tvg-id="TVSTravel.us" tvg-name="TVS Travel Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Bgqy4fL.jpg" group-title="美国",TVS Travel Network (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 #EXTINF:-1 tvg-id="TVSTurbo.us" tvg-name="TVS Turbo" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="美国",TVS Turbo (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:-1 tvg-id="TVSWesternMovie.us" tvg-name="TVS Western Movie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UsgbmfF.png" group-title="美国",TVS Western Movie (360p)
@@ -6310,6 +6352,8 @@ https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVParis.fr" tvg-name="Fashion TV Paris" tvg-country="FR" tvg-language="" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="法国",Fashion TV Paris (1080p)
 http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FashionTVParisMumbai.fr" tvg-name="Fashion TV Paris-Mumbai" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="法国",Fashion TV Paris-Mumbai (1080p) [Not 24/7]
+https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVPG13.fr" tvg-name="Fashion TV PG13" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="法国",Fashion TV PG13
 https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-name="Fashion TV PG16" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="法国",Fashion TV PG16 (1080p)
@@ -6418,8 +6462,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46ae801f347500099
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVCrime.us" tvg-name="Pluto TV Crime" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" group-title="法国",Pluto TV Crime (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVCrimePlus.us" tvg-name="Pluto TV Crime+" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/5ffebbeabd18520007b37709/solidLogoPNG.png" group-title="法国",Pluto TV Crime+ (720p)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebbeabd18520007b37709/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9391-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fc31112d-4925-4f44-b50f-ddf0ca08e7c7
 #EXTINF:-1 tvg-id="PlutoTVCuisine.us" tvg-name="Pluto TV Cuisine" tvg-country="CH;FR" tvg-language="French" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="法国",Pluto TV Cuisine (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVDating.us" tvg-name="Pluto TV Dating" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/6092544e7639460007d4835e/solidLogoPNG.png" group-title="法国",Pluto TV Dating (720p)
@@ -6806,6 +6848,8 @@ https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/flensburgtv/index.m3u8
 https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
 #EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-name="OK Kaiserslautern" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/SzGXrjb.png" group-title="德国",OK Kaiserslautern (720p)
 https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKassel.de" tvg-name="OK Kassel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="德国",OK Kassel (720p) [Not 24/7]
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
 #EXTINF:-1 tvg-id="OKKiel.de" tvg-name="OK Kiel" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/A8rLufC.png" group-title="德国",OK Kiel (576p)
 https://d1lv1lpzlrjn3y.cloudfront.net/play/hls/kieltv/index.m3u8
 #EXTINF:-1 tvg-id="OKLudwigshafen.de" tvg-name="OK Ludwigshafen" tvg-country="DE" tvg-language="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okludwigshafen.png" group-title="德国",OK Ludwigshafen (360p)
